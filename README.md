@@ -134,6 +134,18 @@ Lihat detail lengkap di `docs/06_REVITALISASI_DISTRIK.md`
 | 32 | Bennix Investor Group | Analisis pungli + potensi ekonomi hilang |
 | 33 | Visit Magelang | PAD wisata turun |
 | 34 | HolaIndonesia | Harga tiket Grojogan Sewu terkini |
+| 35 | WartaJawaTengah | Grojogan Sewu sepi weekend 500 pengunjung |
+| 36 | Jatengnews.id | Karanganyar ranking 25 wisata Jateng |
+| 37 | Metropolitan.id | 15 wisata Sragen 2026 |
+| 38 | Kompas (Wonogiri) | Jembatan Kaca WGM Lebaran 2025 |
+| 39 | IDN Times | Aktivitas Waduk Gajah Mungkur |
+| 40 | KaranganyarNews | 8 wisata hits Karanganyar 2026 |
+| 41 | Telkomsel | 20 wisata Karanganyar terbaru |
+| 42 | KabarBUMN | Cepogo Cheese Park Boyolali |
+| 43 | TribunSolo (Sragen) | 5 wisata hits Sragen Lebaran 2026 |
+| 44 | catperku.com | Umbul Ponggok Klaten tiket Rp15K |
+| 45 | wisata.klaten.go.id | 9 daya tarik Umbul Ponggok |
+| 46 | Jadesta Kemenpar | Umbul Ponggok data Kemenpar |
 
 ## Terakhir Diperbarui
 

@@ -204,7 +204,31 @@ Tawangmangu tidak pernah "mati" — ia **bergeser**. Dari kawasan wisata elite c
 
 ## BAGIAN 3: KEMANA WISATAWAN PERGI? — ANALISIS REGIONAL
 
-Tawangmangu bukan hanya kehilangan pengunjung ke Lawu Park/Wonder Park. Yang lebih kritis: **wisatawan dari kota-kota besar yang dulu rutin ke Tawangmangu sekarang sudah tidak mau ke sana**. Mereka pilih destinasi lain yang lebih dekat, lebih murah, atau lebih menarik.
+Tawangmangu bukan hanya kehilangan pengunjung ke Lawu Park/Wonder Park. Yang lebih kritis: **wisatawan dari kabupaten/kota sekitar yang dulu rutin ke Tawangmangu sekarang sudah tidak mau ke sana**. Masing-masing kabupaten kini punya destinasi sendiri yang lebih menarik, lebih murah, dan lebih dekat.
+
+### Peta Pergeseran Wisatawan per Kabupaten
+
+```
+                    BOYOLALI
+                  (Cepogo Cheese
+                    Park, Merapi)
+                       ↓
+              SUKOHARJO
+              (Gunung Pegat)
+                 ↓              ↓
+         SRAGEN ←—— TAWANGMANGU ——→ NGARGOYOSO
+      (Air Panas       ↑            (Jumog, Kemuning
+       Bayanan,     KARANGANYAR       Sky Hills,
+       Sangiran,   (The Lawu Park,   Candi Cetho)
+       Kedung Ombo) Wonder Park)
+                       ↓
+                 WONOGIRI
+              (Waduk Gajah
+                Mungkur)
+                       ↓
+                   KLATEN
+                (Umbul Ponggok)
+```
 
 ### 3.1 Orang Solo → Solo Kota + Jogja (Aglomerasi)
 
@@ -230,7 +254,133 @@ Sekarang: Orang Solo **lebih suka ke kota sendiri atau ke Jogja**.
 
 **Insight kunci:** Solo sudah berubah dari "kota transit ke Tawangmangu" menjadi **destinasi itu sendiri**. Tidak perlu naik gunung lagi — semua ada di kota, GRATIS.
 
-### 3.2 Orang Jawa Timur → Batu/Malang Sendiri + Dieng
+### 3.2 Orang Sragen → Destinasi Sendiri (Tidak Lagi ke Tawangmangu)
+
+Dulu: Sragen ke Tawangmangu = alternatif wisata pegunungan.
+Sekarang: Sragen **sudah bukan "kota perlintasan"** — punya destinasi sendiri yang lengkap.
+
+| Dulu | Sekarang | Kenapa |
+|---|---|---|
+| Tawangmangu (30 km dari Solo) | **Pemandian Air Panas Bayanan** (kaki Gunung Lawu) | Air panas alami + waterpark, tiket murah |
+| Tawangmangu | **Museum Sangiran** (UNESCO) | Edukasi manusia purba, interaktif |
+| Tawangmangu | **Waduk Kedung Ombo** | Sunset, memancing, kuliner ikan, Rp10-25K |
+| Tawangmangu | **Kedung Grujug** (Miri) | Air terjun tersembunyi, tebing alami, gratis |
+| Tawangmangu | **Waduk Gebyar** | Wisata air + panorama Gunung Lawu |
+| Tawangmangu | **Sendang Kun Gerit** (Gemolong) | Wisata alam estetik, Lebaran 2026 hits |
+| Tawangmangu | **Ndayu Park** | Kolam renang + spot foto keluarga |
+| Tawangmangu | **Taman Bunga Ganesha Sukowati** | Bunga warna-warni, healing, Rp murah |
+| Tawangmangu | **Desa Wisata Boyolayar** (Sumberlawang) | Pengalaman pedesaan, spot foto |
+
+> *"Sragen jadi destinasi Lebaran 2026, tak lagi sekadar kota perlintasan, tapi menawarkan wisata lengkap dari sejarah hingga alam."* — TribunSolo, Maret 2026
+
+**Kutipan kunci:** Pemandian Air Panas Bayanan = di **kaki Gunung Lawu juga** (sama seperti Tawangmangu), tapi lebih murah dan punya waterpark. Sragen **mencuri pasar** Tawangmangu dari sisi yang sama.
+
+### 3.3 Orang Wonogiri → Waduk Gajah Mungkur + Jembatan Kaca
+
+Dulu: Wonogiri ke Tawangmangu = wisata pegunungan alternatif.
+Sekarang: Wonogiri punya **ikon wisata sendiri** yang terus berkembang.
+
+| Dulu | Sekarang | Kenapa |
+|---|---|---|
+| Tawangmangu | **Waduk Gajah Mungkur** | Danau buatan + taman satwa + waterboom + Rp10-25K |
+| Tawangmangu | **Jembatan Kaca WGM** (baru Maret 2025) | Viral, view waduk dari ketinggian, Rp10K |
+| Tawangmangu | **Watu Cenik** | Panorama waduk dari atas bukit |
+| Tawangmangu | **Infinity Pool Soko Langit** | Kolam renang infinity view waduk |
+| Tawangmangu | **Gunung Sepikul / Gunung Kelir** | Wisata alam + spot foto |
+| Tawangmangu | **Telaga Biru Semin** | "Mini Raja Ampat" |
+
+**Data Waduk Gajah Mungkur:**
+- Luas genangan: 8.800 hektare (7 kecamatan)
+- Tiket masuk: Rp10-25K (Lebaran naik)
+- Jembatan kaca: dibuka Lebaran 2025, viral
+- Kuliner ikan bakar/pepes ikan segar
+- KA Batara Kresna Solo-Wonogiri: 1 jam (dipercepat)
+
+> Wonogiri tidak perlu ke Tawangmangu lagi — Waduk Gajah Mungkur sudah jadi destinasi lengkap: danau, taman satwa, waterboom, jembatan kaca, kuliner ikan.
+
+### 3.4 Orang Boyolali → Cepogo Cheese Park (View Merapi)
+
+Dulu: Boyolali ke Tawangmangu = wisata pegunungan.
+Sekarang: Boyolali punya **Cepogo Cheese Park** (PT Cimory) — "wisata rasa Swiss di kaki Merapi".
+
+| Dulu | Sekarang | Kenapa |
+|---|---|---|
+| Tawangmangu | **Cepogo Cheese Park** | Edukasi peternakan + mini zoo + keju + view Merapi+Merbabu |
+| Tawangmangu | **De Windmills** (satu kawasan) | Kincir angin ala Belanda, spot foto |
+| Tawangmangu | **Desa Wisata Kembangkuning** | "5 Wisata dalam 1 Lokasi" — edukasi, budaya, kuliner |
+| Tawangmangu | **Candi Sari Cepogo** | Situs Hindu abad ke-9 + panorama pegunungan |
+
+**Data Cepogo Cheese Park:**
+- Tiket: Rp20K (weekday) / Rp25K (weekend)
+- Dikelola PT Cimory Group (investor besar)
+- Mini zoo: domba, sapi perah, kelinci, kuda poni, burung unta
+- Wahana: Moo Moo Train, Rainbow Slide terpanjang Solo Raya, Tractor Tour de Farm
+- By-oleh: keju mozzarella, yoghurt, es krim, bolu Cimory
+- Lokasi: lereng Merapi-Merbabu, udara sejuk
+- Jarak: 30 menit dari Kota Boyolali, 1 jam dari Solo/Salatiga
+
+> Boyolali sekarang identik dengan "Kota Susu" — Cepogo Cheese Park jadi magnet wisata baru yang menarik keluarga dari seluruh Solo Raya. Tidak perlu ke Tawangmangu lagi untuk wisata pegunungan + edukasi.
+
+### 3.5 Orang Klaten → Umbul Ponggok ("Bunaken van Java")
+
+Dulu: Klaten ke Tawangmangu = wisata alam.
+Sekarang: Klaten punya **Umbul Ponggok** — wisata air tawar yang viral.
+
+| Dulu | Sekarang | Kenapa |
+|---|---|---|
+| Tawangmangu | **Umbul Ponggok** | Snorkeling + diving air tawar + foto bawah air, Rp10-15K |
+| Tawangmangu | **Umbul-umbul lain** | Mata air alami di seluruh Klaten |
+
+**Data Umbul Ponggok:**
+- Tiket: Rp10K (weekday) / Rp15K (weekend)
+- Kolam: 70m x 40m, kedalaman 1,5-3m, air jernih dari mata air alami
+- Aktivitas: snorkeling, diving, underwater walker, foto bawah air (vespa, sepeda, TV)
+- Ikan: nila, bawal, mujair, ikan mas — berenang bersama pengunjung
+- Julukan: "Bunaken van Java" (dipromosikan Presiden Jokowi)
+- Pengunjung: dari seluruh Pulau Jawa, bukan hanya Klaten
+
+> Umbul Ponggok = pengalaman yang **tidak bisa ditiru Tawangmangu**. Tidak ada air terjun yang bisa snorkeling + foto bawah air. Klaten sudah punya "wow factor" sendiri.
+
+### 3.6 Karanganyar Sendiri: Bukan Cuma Tawangmangu
+
+Bahkan di dalam Kabupaten Karanganyar, Tawangmangu bukan satu-satunya destinasi. Banyak warga Karanganyar sendiri lebih pilih destinasi lain di wilayah yang sama.
+
+| Dulu (fokus ke Tawangmangu) | Sekarang (pencar ke destinasi lain) | Tiket |
+|---|---|---|
+| Grojogan Sewu | **Air Terjun Jumog** (Ngargoyoso) — "menyalip Grojogan" | Lebih murah |
+| Grojogan Sewu | **Kemuning Sky Hills** — jembatan kaca viral | Rp10-30K |
+| Grojogan Sewu | **Ngargoyoso Waterfall** — air terjun alami, tiket murah | Rp murah |
+| Grojogan Sewu | **The Lawu Park** — wisata buatan | Rp20-25K |
+| Grojogan Sewu | **Paralayang Kemuning** — adrenalin + sunrise | - |
+| Grojogan Sewu | **Candi Cetho + Candi Sukuh** — heritage | Rp10-15K |
+| Grojogan Sewu | **Desa Wisata Beruk Sejuk** (Jatiyoso) — river tubing | - |
+| Grojogan Sewu | **Telaga Madirda** — danau alami + camping | - |
+| Grojogan Sewu | **Kebun Teh Kemuning** — tea walk + homestay | - |
+
+**Data Air Terjun Jumog:**
+- 297K pengunjung 2022 — **menyalip Grojogan Sewu**
+- Saat libur panjang 2026: ribuan pengunjung dalam sehari
+- Lebih murah, lebih natural, manajemen lokal lebih aktif
+
+> Karanganyar punya **20+ destinasi wisata** — Grojogan Sewu hanya 1 dari banyak. Wisatawan sekarang pencar ke Jumog, Kemuning, Lawu Park, Candi Cetho. Tawangmangu bukan lagi "anchor tunggal" Kabupaten Karanganyar.
+
+### 3.7 Orang Semarang → Ungaran/Telomoyo + Dusun Semilir
+
+Dulu: Semarang ke Tawangmangu = destinasi pegunungan alternatif.
+Sekarang: Semarang punya **banyak destinasi pegunungan sendiri** di area Ungaran.
+
+| Dulu | Sekarang | Kenapa |
+|---|---|---|
+| Tawangmangu (3-4 jam) | **Gunung Telomoyo** | Naik motor sampai puncak, view 360°, paralayang |
+| Tawangmangu | **Dusun Semilir** (kaki Ungaran) | Lorong bunga, prosotan pelangi, edukasi |
+| Tawangmangu | **Saloka Theme Park** (Tuntang) | Taman hiburan modern, 20+ wahana, tiket Rp120K |
+| Tawangmangu | **Kampung Bunga Celosia** (Bandungan) | 5 hektare taman bunga viral |
+| Tawangmangu | **Curug Lawe Benowo Kalisidi** | Hiking ringan 2.7 km, camping + campervan (April 2026) |
+| Tawangmangu | **Kota Lama Semarang** | 235.985 pengunjung — **#1 Jateng libur sekolah 2026** |
+
+> Orang Semarang tidak perlu jauh-jauh ke Tawangmangu lagi. Gunung Ungaran punya semua: hiking, camping, air panas, taman bunga, theme park — dalam radius 1 jam dari kota.
+
+### 3.8 Orang Jawa Timur → Batu/Malang Sendiri + Dieng
 
 Dulu: Surabaya/Malang ke Tawangmangu = alternatif dari Batu.
 Sekarang: Orang Jatim **lebih pilih destinasi sendiri atau naik ke Dieng**.
@@ -270,25 +420,7 @@ Mengapa Dieng mengalahkan Tawangmangu:
 - UMKM omset naik **3x lipat** dari tahun sebelumnya
 - Libur sekolah 2026: Dieng masuk **top 5 destinasi Jateng** dengan **67.600 pengunjung**
 
-> Orang Malang dulu ke Tawangmangu karena想找 Gunung Lawu. Sekarang ke Dieng karena embun esnya unik — tidak ada di Malang.
-
-### 3.3 Orang Semarang → Ungaran/Telomoyo + Dusun Semilir
-
-Dulu: Semarang ke Tawangmangu = destinasi pegunungan alternatif.
-Sekarang: Semarang punya **banyak destinasi pegunungan sendiri** di area Ungaran.
-
-| Dulu | Sekarang | Kenapa |
-|---|---|---|
-| Tawangmangu (3-4 jam) | **Gunung Telomoyo** | Naik motor sampai puncak, view 360°, paralayang |
-| Tawangmangu | **Dusun Semilir** (kaki Ungaran) | Lorong bunga, prosotan pelangi, edukasi |
-| Tawangmangu | **Saloka Theme Park** (Tuntang) | Taman hiburan modern, 20+ wahana, tiket Rp120K |
-| Tawangmangu | **Kampung Bunga Celosia** (Bandungan) | 5 hektare taman bunga viral |
-| Tawangmangu | **Curug Lawe Benowo Kalisidi** | Hiking ringan 2.7 km, camping + campervan (April 2026) |
-| Tawangmangu | **Kota Lama Semarang** | 235.985 pengunjung — **#1 Jateng libur sekolah 2026** |
-
-> Orang Semarang tidak perlu jauh-jauh ke Tawangmangu lagi. Gunung Ungaran punya semua: hiking, camping, air panas, taman bunga, theme park — dalam radius 1 jam dari kota.
-
-### 3.4 Wisatawan Nasional → Dieng + Puncak Bogor
+### 3.9 Wisatawan Nasional → Dieng + Puncak Bogor
 
 Wisatawan dari luar Jawa Tengah yang dulu mampir ke Tawangmangu via Solo sekarang pilih:
 
@@ -541,11 +673,11 @@ Wisatawan dari luar Jawa Tengah yang dulu mampir ke Tawangmangu via Solo sekaran
 
 1. **Tawangmangu tidak mati — tapi berpindah tangan.** Dari warga lokal (Karwadi, hotel melati) ke investor besar (The Lawu Group, 400 investor). Ini **gentrifikasi pariwisata**.
 
-2. **Wisatawan tidak hilang — tapi berpindah selera dan lokasi.** Orang Solo pilih kota sendiri (Sheikh Zayed GRATIS) dan Jogja (KRL komuter). Orang Jatim pilih Dieng (embun es viral) dan Baturaden. Orang Semarang pilih Ungaran/Telomoyo. Grojogan Sewu kalah dari semua arah.
+2. **Wisatawan tidak hilang — tapi berpindah ke destinasi tetangga yang lebih menarik.** Orang Solo pilih kota sendiri (Sheikh Zayed GRATIS) dan Jogja (KRL komuter). Orang Sragen pilih Air Panas Bayanan dan Sangiran. Orang Wonogiri pilih Waduk Gajah Mungkur + jembatan kaca. Orang Boyolali pilih Cepogo Cheese Park. Orang Klaten pilih Umbul Ponggok. Orang Jatim pilih Dieng (embun es viral) dan Baturaden. **Setiap kabupaten sekarang punya destinasi sendiri** — tidak ada lagi yang perlu ke Tawangmangu.
 
 3. **Pemudik = anchor baru yang tidak terduga.** Mereka tidak mencari "wisata" — mereka mencari "tempat istirahat". Ini pasar yang lebih stabil tapi lebih rendah spend-nya. Daya beli turun 8-12% per tahun = tren jangka panjang.
 
 ---
 
-*Sumber data: Espos.id, TribunSolo, KRJogja, InilahJateng, Nusawara, VIVA Jogja, BSOET.com, HarianJogja, UMS ETD, Undip ETD, thelawugroup.com, smol.id, mercusuar.co, InfoNasional, BPS Karanganyar, KAI Commuter, Disporapar Jateng, Tribun Jateng, WartaJateng, Bennix Investor Group, Visit Magelang, HolaIndonesia*
+*Sumber data: Espos.id, TribunSolo, KRJogja, InilahJateng, Nusawara, VIVA Jogja, BSOET.com, HarianJogja, UMS ETD, Undip ETD, thelawugroup.com, smol.id, mercusuar.co, InfoNasional, BPS Karanganyar, KAI Commuter, Disporapar Jateng, Tribun Jateng, WartaJateng, Bennix Investor Group, Visit Magelang, HolaIndonesia, WartaJawaTengah, Jatengnews.id, Metropolitan.id, TribunSolo (Sragen), Kompas (Wonogiri), Detikcom, IDN Times, KaranganyarNews, Telkomsel, RadarBangsa, KabarBUMN, TVRI, catperku.com, wisata.klaten.go.id, Jadesta Kemenpar*
 *Terakhir diperbarui: 19 Juli 2026*
