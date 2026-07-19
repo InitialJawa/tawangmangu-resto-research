@@ -202,31 +202,152 @@ Tawangmangu tidak pernah "mati" — ia **bergeser**. Dari kawasan wisata elite c
 
 ---
 
-## BAGIAN 3: KEMANA WISATAWAN PERGI?
+## BAGIAN 3: KEMANA WISATAWAN PERGI? — ANALISIS REGIONAL
 
-### 3.1 Dari Grojogan Sewu → Ke Mana?
+Tawangmangu bukan hanya kehilangan pengunjung ke Lawu Park/Wonder Park. Yang lebih kritis: **wisatawan dari kota-kota besar yang dulu rutin ke Tawangmangu sekarang sudah tidak mau ke sana**. Mereka pilih destinasi lain yang lebih dekat, lebih murah, atau lebih menarik.
 
-| Tujuan | Siapa yang Pergi | Alasan | Data |
-|--------|-----------------|--------|------|
-| **Lawu Park + Wonder Park** | Keluarga, anak muda | Lebih murah (HTM Rp15-20K vs Rp27K), lebih instagramable | 22.000 kendaraan H+3 Lebaran 2026 |
-| **Air Terjun Jumog** | Wisatawan alam | Lebih murah, lebih natural, manajemen lokal | 297K pengunjung 2022 (menyalip Grojogan) |
-| **Kafe viral Blumbang** | Anak muda Solo, content creator | View Gunung Lawu, estetika, live music | 350-500 orang/hari saat Lebaran |
-| **Solo (kota)** | Wisatawan regional | Taman Balekambang, Solo Safari, Sheikh Zayed, staycation | 5,6 juta wisatawan 2025 |
-| **Ngargoyoso** | Wisatawan heritage | Candi Cetho, Candi Sukuh, Kemuning Sky Hills | Jeep + tubing populer |
-| **TIDAK KEMANA-MANA** | Wisatawan jarak jauh | Staycation, tren baru destinasi terdekat | Solo, Sukoharjo, Klaten dominan |
+### 3.1 Orang Solo → Solo Kota + Jogja (Aglomerasi)
 
-### 3.2 Pergeseran Pola Kunjungan
+Dulu: Solo ke Tawangmangu = 1 jam, jadi destinasi weekend rutin.
+Sekarang: Orang Solo **lebih suka ke kota sendiri atau ke Jogja**.
+
+| Dulu (2015-2019) | Sekarang (2025-2026) | Kenapa |
+|---|---|---|
+| Grojogan Sewu (Rp29K tiket) | **Masjid Raya Sheikh Zayed** | GRATIS, megah, instagramable |
+| Tawangmangu full day | **Taman Balekambang** (revitalisasi 2024) | GRATIS, keluarga, dekat |
+| Grojogan Sewu | **Solo Safari** (mantan Taman Jurug) | Kebun binatang modern |
+| Menginap di Tawangmangu | **Lokananta Bloc** (creative hub) | Cafe, seni, musik, gratis masuk |
+| Malam tahun baru Tawangmangu | **Night Market Ngarsopuro** | GRATIS, street food |
+| Tawangmangu | **Jogja** (Malioboro, kuliner, budaya) | KRL komuter Solo-Jogja |
+
+**Data KRL Solo↔Jogja (fenomena aglomerasi):**
+- 2024: **3.764.314 penumpang/tahun**
+- H1 2025 saja: **4.413.690 penumpang** (sudah melebihi seluruh tahun 2024!)
+- Nataru 2025/2026: **545.476 orang** Commuter Line Jogja-Palur (naik 5%)
+- Long weekend Maulid Nabi: **219.400 penumpang** di wilayah Daop 6
+
+> *"Terjadi pertukaran arus wisatawan antara Kota Solo dan Yogyakarta yang semakin intens... batas geografis kedua kota semakin kabur dalam konteks pariwisata."* — Nugroho Dwi Sasongko, DirKeu KAI Commuter
+
+**Insight kunci:** Solo sudah berubah dari "kota transit ke Tawangmangu" menjadi **destinasi itu sendiri**. Tidak perlu naik gunung lagi — semua ada di kota, GRATIS.
+
+### 3.2 Orang Jawa Timur → Batu/Malang Sendiri + Dieng
+
+Dulu: Surabaya/Malang ke Tawangmangu = alternatif dari Batu.
+Sekarang: Orang Jatim **lebih pilih destinasi sendiri atau naik ke Dieng**.
+
+**Kota Batu sendiri turun, tapi masih lebih menarik dari Tawangmangu:**
+
+| Metrik | 2024 | 2025 | Selisih |
+|--------|------|------|---------|
+| Total kunjungan Kota Batu | 11 juta | 9,7 juta | **-12%** |
+| Selecta | - | - | **-23%** |
+| Jatim Park Group | 5,3 juta | 4,9 juta | **-7,5%** |
+
+Meskipun turun, Kota Batu masih punya **pengalaman lebih kaya** dari Tawangmangu:
+- **Lembah Indah Malang** (Gunung Kawi): Glamping + offroad + edu farm. 37 unit glamping, 30 hektar. Tiket Rp20K
+- **Bukit Nirwana** (Pujon Kidul): Panorama 360° Gunung Kawi + Arjuna. Tiket Rp10K
+- **Bukit Kuneer** (Singosari): Kebun teh 1.250 mdpl, viral TikTok. Tiket Rp10K
+- **Taman Langit Gunung Banyak**: Panorama + camping + paralayang. Tiket Rp25K
+
+**Dieng — boom luar biasa, pengganti Gunung Lawu:**
+
+| Bulan 2026 | Kunjungan Dieng |
+|------------|----------------|
+| Januari | 69.225 |
+| Februari | 32.982 |
+| Maret | 87.031 |
+| April | 68.799 |
+| Mei | 89.793 |
+| **Juni** | **131.970** |
+| 1-9 Juli | 67.421 |
+
+Mengapa Dieng mengalahkan Tawangmangu:
+- Embun es/upas: suhu sampai **-6°C** (fenomena unik di Indonesia)
+- Dieng Culture Festival: event tahunan viral
+- Festival Jazz Atas Awan, Festival Film Dieng
+- Tiket masuk **lebih terjangkau** dari Grojogan Sewu
+- Spot unik: Bukit Sikunir, Gunung Prau, Kawah Sikidang, Telaga Warna
+- UMKM omset naik **3x lipat** dari tahun sebelumnya
+- Libur sekolah 2026: Dieng masuk **top 5 destinasi Jateng** dengan **67.600 pengunjung**
+
+> Orang Malang dulu ke Tawangmangu karena想找 Gunung Lawu. Sekarang ke Dieng karena embun esnya unik — tidak ada di Malang.
+
+### 3.3 Orang Semarang → Ungaran/Telomoyo + Dusun Semilir
+
+Dulu: Semarang ke Tawangmangu = destinasi pegunungan alternatif.
+Sekarang: Semarang punya **banyak destinasi pegunungan sendiri** di area Ungaran.
+
+| Dulu | Sekarang | Kenapa |
+|---|---|---|
+| Tawangmangu (3-4 jam) | **Gunung Telomoyo** | Naik motor sampai puncak, view 360°, paralayang |
+| Tawangmangu | **Dusun Semilir** (kaki Ungaran) | Lorong bunga, prosotan pelangi, edukasi |
+| Tawangmangu | **Saloka Theme Park** (Tuntang) | Taman hiburan modern, 20+ wahana, tiket Rp120K |
+| Tawangmangu | **Kampung Bunga Celosia** (Bandungan) | 5 hektare taman bunga viral |
+| Tawangmangu | **Curug Lawe Benowo Kalisidi** | Hiking ringan 2.7 km, camping + campervan (April 2026) |
+| Tawangmangu | **Kota Lama Semarang** | 235.985 pengunjung — **#1 Jateng libur sekolah 2026** |
+
+> Orang Semarang tidak perlu jauh-jauh ke Tawangmangu lagi. Gunung Ungaran punya semua: hiking, camping, air panas, taman bunga, theme park — dalam radius 1 jam dari kota.
+
+### 3.4 Wisatawan Nasional → Dieng + Puncak Bogor
+
+Wisatawan dari luar Jawa Tengah yang dulu mampir ke Tawangmangu via Solo sekarang pilih:
+
+| Dulu | Sekarang | Data |
+|---|---|---|
+| Tawangmangu (via Solo) | **Dieng** | 131.970 pengunjung Juni 2026 |
+| Tawangmangu | **Puncak Bogor** | 15,7 juta wisatawan 2025 (rekor Jabar) |
+
+### 3.5 Destinasi BERHASIL vs GAGAL — Peta Kompetisi
+
+| Status | Destinasi | Kunjungan | Harga Tiket |
+|--------|-----------|-----------|-------------|
+| **MENANG** | Masjid Sheikh Zayed Solo | Tinggi | GRATIS |
+| **MENANG** | Dieng | +45% wisnus Jateng libur sekolah 2026 | Kompetitif |
+| **MENANG** | Kemuning Sky Hills, Karanganyar | Viral sejak 2023 | Rp10-30K |
+| **MENANG** | Dusun Semilir, Bandungan | Tinggi | - |
+| **MENANG** | Baturaden, Purwokerto | 20.000 wisatawan libur sekolah 2026 | Rp20-25K |
+| **MENANG** | Kota Lama Semarang | 235.985 (#1 Jateng) | - |
+| **MENANG** | Saloka Theme Park | Tinggi | Rp120K |
+| **KALAH** | **Grojogan Sewu Tawangmangu** | **-21%** (300K → 236K/tahun) | Rp29.500 |
+| **KALAH** | Selecta Batu | **-23%** | - |
+| **KALAH** | Jatim Park Group | **-7,5%** | - |
+| **KALAH** | Kota Batu secara keseluruhan | **-12%** (11M → 9,7M) | - |
+
+### 3.6 Data Daya Beli: Wisatawan Secara Nasional Turun
+
+| Data Point | Angka | Sumber |
+|------------|-------|--------|
+| Kunjungan wisata Lebaran Jateng 2025 | **-8%** vs 2024 | Disporapar Jateng |
+| Target Lebaran 2025: 4,5 juta → Realisasi: **3,7 juta** | | Disporapar Jateng |
+| Pemudik ke Jateng turun | **-19%** | Disporapar Jateng |
+| Okupansi hotel Jateng turun | **-10% hingga -20%** | Perhimpunan Hotel |
+| Kunjungan Lebaran Jateng 2026 turun | **-10% hingga -12%** vs 2025 | Tribun Jateng |
+| PAD wisata Magelang 2025 turun | Rp5,2M → Rp4,2M | Visit Magelang |
+| Wisatawan pilih DTW non-tiket | Mayoritas | Disporapar Jateng |
+
+**Penyebab penurunan daya beli:**
+- PHK massal di berbagai sektor
+- Kebijakan efisiensi anggaran — perjalanan dinas pemerintah dipotong (sumbang 30-50% okupansi hotel)
+- Rencana kenaikan PPN menciptakan ketidakpastian
+- Tren "liburan hemat" — masyarakat pilih destinasi gratis/tiket murah
+
+> *"Pemudik benar-benar pulang kampung, agak mengerem pengeluaran untuk wisata... masyarakat lebih memilih mendatangi DTW yang tidak memungut biaya tiket masuk."* — Agung Haryadi, Kadisporapar Jateng
+
+### 3.7 Tren Pergeseran Pola Wisata 2025-2026
 
 | Pola Lama | Pola Baru |
 |-----------|-----------|
-| Kunjungan jarak jauh (Semarang, Jogja, Jatim) | Kunjungan lokal (Solo Raya, Sukoharjo, Klaten) |
-| Multi-destinasi (keliling Tawangmangu) | Single-destinasi (lama di 1 tempat) |
-| Wisata alam (Grojogan Sewu) | Wisata buatan + kuliner |
-| Menginap 1-2 malam | Day trip (pulang hari) |
-| Beli oleh-oleh tradisional | Foto Instagram/TikTok + kafe |
-| Malam tahun baru di Tawangmangu | Staycation di Solo |
+| Destinasi tiket mahal | **Destinasi gratis/non-tiket** (Sheikh Zayed, Balekambang, Ngarsopuro) |
+| Liburan panjang 5-7 hari | **Microtourism** (1-2 hari, dekat, biaya rendah) |
+| Destinasi mainstream (Grojogan Sewu) | **Spot viral Instagramable/TikTok** (Kemuning, Dusun Semilir) |
+| Wisata alam pasif (lihat view) | **Experience-based** (glamping, offroad, canyoning, camping) |
+| Solo trip jauh | **Aglomerasi** (Solo↔Jogja pakai KRL komuter) |
+| Wisata berbayar mahal | **Tiket terjangkau** (Rp2.000-25.000) |
+| Single destination | **Multi-destination** (satu hari beberapa spot) |
+| Wisata siang | **Wisata malam** (Night market, cafe 24 jam, night safari) |
+| Tawangmangu sebagai destinasi | **Tawangmangu sebagai transit** (hanya pemudik) |
 
-### 3.3 Siapa yang Masih Datang ke Tawangmangu?
+### 3.8 Siapa yang Masih Datang ke Tawangmangu?
 
 | Segmen | Volume | Pola |
 |--------|--------|------|
@@ -234,7 +355,7 @@ Tawangmangu tidak pernah "mati" — ia **bergeser**. Dari kawasan wisata elite c
 | **Anak muda Solo** | Sedang | Kafe viral, foto-foto, pulang |
 | **Keluarga Solo Raya** | Sedang | Wisata buatan (Lawu Park, Wonder Park) |
 | **Pendaki Gunung Lawu** | Stabil (sepanjang tahun) | Cemoro Sewu/Kandang, menginap budget |
-| **Wisatawan jarak jauh** | **Menurun** | Lebih pilih staycation di Solo |
+| **Wisatawan jarak jauh** | **Menurun drastis** | Lebih pilih Dieng, Baturaden, atau staycation Solo |
 | **Wellness tourism** | Mulai naik | Anaya Azana Villa (spa + inap) |
 
 ---
@@ -317,7 +438,32 @@ Tawangmangu tidak pernah "mati" — ia **bergeser**. Dari kawasan wisata elite c
 2026    : Pemudik jadi anchor baru yang tidak terduga
 ```
 
-### 6.2 Mengapa Grojogan Sewu Kalah?
+### 6.2 Mengapa Grojogan Sewu Kalah — Push-Pull Analysis
+
+**PUSH FACTORS (mendorong wisatawan pergi dari Tawangmangu):**
+
+| Faktor | Dampak | Data |
+|--------|--------|------|
+| Tiket mahal (Rp29.500) | "Hanya lihat air terjun" tidak sepadan | Grojogan Rp29,5K vs Jumog Rp15K vs Lawu Park Rp20K |
+| Pungli parkir Rp50.000-100.000 | Viral di media sosial/YouTube | Bennix Investor Group |
+| Tangga licin, berbahaya | Insiden kecelakaan, wisatawan takut kembali | WartaJateng, Feb 2026 |
+| Tidak ada inovasi | Tidak ada event, tidak ada konsep baru | Monopoli PT Duta tanpa insentif |
+| Fasilitas pendukung tutup | Warung + toko tutup, wisatawan tidak betah | 141 → 70 pedagang aktif |
+| Monopoli tanpa kompetisi | Tidak ada alasan berbenah | PT Duta = satu-satunya pengelola |
+| Bupati tidak bisa intervensi | Kewenangan di Kementerian, bukan Pemkab | "Itu kewenangan Kementerian" |
+
+**PULL FACTORS (menarik wisatawan ke destinasi lain):**
+
+| Destinasi | Pull Factor | Tiket |
+|-----------|-------------|-------|
+| Solo kota (Sheikh Zayed, Balekambang) | GRATIS + dekat + instagramable | Rp0 |
+| Jogja (KRL komuter) | Aglomerasi, event budaya, kuliner | Transportasi saja |
+| Dieng | Embun es -6°C, event viral, pengalaman unik | Kompetitif |
+| Baturaden | Waterpark + air panas + curug = paket lengkap | Rp20-25K |
+| Ungaran/Telomoyo | Naik motor ke puncak, paralayang, camping | Murah |
+| Dusun Semilir + Saloka | Lorong bunga + theme park modern | Rp120K |
+| Kemuning Sky Hills | Jembatan kaca viral, di Karanganyar sendiri | Rp10-30K |
+| Malang/Batu | Glamping modern, multi-wahana | Rp10-25K |
 
 1. **Terikat regulasi** — kawasan konservasi, tidak bisa inovasi (no camping, glamping, dll)
 2. **Harga tiket mahal** — PNBP naik 2x lipat (Rp5K → Rp15K), tidak bisa turunkan harga
@@ -395,11 +541,11 @@ Tawangmangu tidak pernah "mati" — ia **bergeser**. Dari kawasan wisata elite c
 
 1. **Tawangmangu tidak mati — tapi berpindah tangan.** Dari warga lokal (Karwadi, hotel melati) ke investor besar (The Lawu Group, 400 investor). Ini **gentrifikasi pariwisata**.
 
-2. **Wisatawan tidak hilang — tapi berpindah selera.** Dari Grojogan Sewu (alam) → wisata buatan + kafe viral + wellness tourism. Mereka masih ke Tawangmangu, tapi bukan ke Grojogan.
+2. **Wisatawan tidak hilang — tapi berpindah selera dan lokasi.** Orang Solo pilih kota sendiri (Sheikh Zayed GRATIS) dan Jogja (KRL komuter). Orang Jatim pilih Dieng (embun es viral) dan Baturaden. Orang Semarang pilih Ungaran/Telomoyo. Grojogan Sewu kalah dari semua arah.
 
-3. **Pemudik = anchor baru yang tidak terduga.** Mereka tidak mencari "wisata" — mereka mencari "tempat istirahat". Ini pasar yang lebih stabil tapi lebih rendah spend-nya.
+3. **Pemudik = anchor baru yang tidak terduga.** Mereka tidak mencari "wisata" — mereka mencari "tempat istirahat". Ini pasar yang lebih stabil tapi lebih rendah spend-nya. Daya beli turun 8-12% per tahun = tren jangka panjang.
 
 ---
 
-*Sumber data: Espos.id, TribunSolo, KRJogja, InilahJateng, Nusawara, VIVA Jogja, BSOET.com, HarianJogja, UMS ETD, Undip ETD, thelawugroup.com, smol.id, mercusuar.co, InfoNasional, BPS Karanganyar*
+*Sumber data: Espos.id, TribunSolo, KRJogja, InilahJateng, Nusawara, VIVA Jogja, BSOET.com, HarianJogja, UMS ETD, Undip ETD, thelawugroup.com, smol.id, mercusuar.co, InfoNasional, BPS Karanganyar, KAI Commuter, Disporapar Jateng, Tribun Jateng, WartaJateng, Bennix Investor Group, Visit Magelang, HolaIndonesia*
 *Terakhir diperbarui: 19 Juli 2026*

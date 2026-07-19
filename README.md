@@ -1,6 +1,6 @@
 # Riset Revitalisasi Ekonomi — Tawangmangu, Karanganyar
 
-Riset komprehensif tentang kondisi ekonomi Tawangmangu: dari analisis kegagalan resto, kompetitor aktif, strategi menghidupkan distrik, hingga sejarah pergeseran wisatawan ke pemudik (siapa orang-orang kunci, kemana mereka pergi).
+Riset komprehensif tentang kondisi ekonomi Tawangmangu: dari analisis kegagalan resto, kompetitor aktif, strategi menghidupkan distrik, hingga sejarah pergeseran wisatawan ke pemudik (siapa orang-orang kunci, kemana wisatawan regional pergi: Solo→kota+Jogja, Jatim→Dieng+Baturaden, Semarang→Ungaran).
 
 ## Ringkasan Proyek
 
@@ -127,6 +127,13 @@ Lihat detail lengkap di `docs/06_REVITALISASI_DISTRIK.md`
 | 25 | smol.id | Investor Turki batal, cable car dialihkan |
 | 26 | mercusuar.co | Pedagang wisata alam alih profesi |
 | 27 | InfoNasional | Pedagang tutup kios Juli 2026 |
+| 28 | KAI Commuter | Data penumpang KRL Solo-Jogja |
+| 29 | Disporapar Jateng | Kunjungan wisata Lebaran Jateng |
+| 30 | Tribun Jateng | Penurunan kunjungan Lebaran 2026 |
+| 31 | WartaJateng | Wisatawan pindah destinasi |
+| 32 | Bennix Investor Group | Analisis pungli + potensi ekonomi hilang |
+| 33 | Visit Magelang | PAD wisata turun |
+| 34 | HolaIndonesia | Harga tiket Grojogan Sewu terkini |
 
 ## Terakhir Diperbarui
 
