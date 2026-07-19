@@ -1,6 +1,6 @@
 # Riset Revitalisasi Ekonomi — Tawangmangu, Karanganyar
 
-Riset komprehensif tentang kondisi ekonomi Tawangmangu: dari analisis kegagalan resto, kompetitor aktif, strategi menghidupkan distrik, hingga sejarah pergeseran wisatawan ke pemudik (siapa orang-orang kunci, kemana wisatawan regional pergi: Solo→kota+Jogja, Jatim→Dieng+Baturaden, Semarang→Ungaran).
+Riset komprehensif tentang kondisi ekonomi Tawangmangu: dari analisis kegagalan resto, kompetitor aktif, strategi menghidupkan distrik, sejarah pergeseran wisatawan ke pemudik, hingga **laporan akhir dengan verdict: jangan buka bisnis di Tawangmangu**.
 
 ## Ringkasan Proyek
 
@@ -30,7 +30,8 @@ tawangmangu-resto-research/
     ├── 04_ANALISIS_KEGAGALAN.md              # Pola kegagalan + insight
     ├── 05_PELUANG_BISNIS.md                  # Rekomendasi 3 konsep kuliner
     ├── 06_REVITALISASI_DISTRIK.md            # ⭐ Strategi menghidupkan distrik (10 jenis usaha, 4 fase, case study)
-    └── 07_SEJARAH_PERGESERAN.md             # ⭐ Sejarah Tawangmangu: tokoh kunci, pergeseran wisatawan→pemudik
+    ├── 07_SEJARAH_PERGESERAN.md             # ⭐ Sejarah Tawangmangu: tokoh kunci, pergeseran wisatawan regional
+    └── 09_LAPORAN_AKHIR.md                  # ⭐⭐ LAPORAN FINAL: verdict, connect the dots, 54 sumber data
 ```
 
 ## Temuan Utama
@@ -65,11 +66,12 @@ tawangmangu-resto-research/
 | Sinyal | Status | Dampak |
 |--------|--------|--------|
 | Terminal revitalisasi | Rencana Dishub Jateng | Zona bisnis baru |
-| Investor Dubai (kereta gantung) | MoU, realistis 3-5 tahun | Akses Solo-Tawangmangu 15 menit |
-| Investor Turkiye (balon udara) | Tertunda | Wahana wisata potensial |
+| Investor Dubai (kereta gantung) | **BATAL mundur total** (Juli 2026) | Tawangmangu belum siap investasi besar |
+| Investor Turkiye (balon udara) | **BATAL mundur** (Juli 2026) | Rencana dialihkan ke cable car mini |
 | Wisata halal pilot project | Aktif di Tawangmangu | Magnet wisatawan Muslim |
 | UMKM Karanglo | Aktif | Olahan pisang, ubi, grubi |
 | Pertanian | 38% lahan (2.665 ha) | Agroturisme potensial |
+| Karanganyar ranking wisata | **#25 se-Jateng** | Bukan destinasi prioritas |
 
 ## 5 Pola Kegagalan
 
@@ -146,6 +148,14 @@ Lihat detail lengkap di `docs/06_REVITALISASI_DISTRIK.md`
 | 44 | catperku.com | Umbul Ponggok Klaten tiket Rp15K |
 | 45 | wisata.klaten.go.id | 9 daya tarik Umbul Ponggok |
 | 46 | Jadesta Kemenpar | Umbul Ponggok data Kemenpar |
+| 47 | Detikcom | Pedagang Grojogan Sewu tutup kios |
+| 48 | TribunStyle | Cepogo Cheese Park wisata keluarga |
+| 49 | About Semarang | Cepogo Cheese Park lereng Merapi |
+| 50 | HarapanRakyat | Desa Wisata Kembangkuning Boyolali |
+| 51 | TVRI | Liburan di Umbul Ponggok |
+| 52 | UMS ETD | Skripsi dampak pariwisata Tawangmangu |
+| 53 | Undip ETD | Perencanaan desa wisata Tawangmangu |
+| 54 | BPS Karanganyar | Kec. Tawangmangu Dalam Angka 2024 |
 
 ## Terakhir Diperbarui
 
