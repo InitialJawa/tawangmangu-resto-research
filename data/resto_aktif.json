@@ -1,0 +1,337 @@
+{
+  "judul": "Daftar Resto/Kafe Aktif di Tawangmangu",
+  "terakhir_diperbarui": "2026-07-19",
+  "catatan": "Data dari berita lokal, Google Maps, GoFood, Instagram, TribunSolo, IDNTimes, KaranganyarNews",
+  "data": [
+    {
+      "id": 1,
+      "nama": "Legender Eatery & Coffee",
+      "tipe": "kafe_resto",
+      "lokasi": "Jl. Tembus Alternatif, Kalisoro/Ombang-ombang, Blumbang",
+      "harga": "Rp5K-39K",
+      "jam_operasional": "09.00-22.00 WIB (weekend lebih malam)",
+      "kapasitas": "3 lantai, rooftop",
+      "keunggulan": "Panorama Gunung Lawu 360°, sunset view, live music, WiFi gratis",
+      "menu_andalan": "Nasi Ayam Asam Manis, Nasi Goreng Seafood, Ta Mie, Sandwich, Chicken Roll",
+      "target_pengunjung": "Anak muda, keluarga",
+      "rating": "Tinggi (Google Reviews)",
+      "status": "aktif_viral"
+    },
+    {
+      "id": 2,
+      "nama": "Pentuk View Coffee & Resto",
+      "tipe": "kafe_resto",
+      "lokasi": "Dawuhan, Desa Blumbang",
+      "harga": "Mulai Rp30K",
+      "jam_operasional": "09.00-21.00 WIB",
+      "keunggulan": "Panorama Gunung Lawu + hamparan ladang",
+      "target_pengunjung": "Wisatawan, keluarga",
+      "status": "aktif"
+    },
+    {
+      "id": 3,
+      "nama": "The Bridge Coffee & Eatery",
+      "tipe": "kafe_resto",
+      "lokasi": "Jl. Tembus Blumbang",
+      "harga": "Rp25K-50K",
+      "jam_operasional": "09.00-21.00 (weekday), 09.00-22.00 (weekend)",
+      "keunggulan": "Berdiri di atas sungai, arsitektur minimalis industrial, jembatan kokoh, live music berkala",
+      "menu_andalan": "Sop Iga Bakar, Rawon The Bridge, Nasi Goreng The Bridge, Soto Betawi, Zuppa Soup, Matcha Croissant",
+      "target_pengunjung": "Anak muda, pasangan",
+      "rating": "Tinggi",
+      "status": "aktif_viral"
+    },
+    {
+      "id": 4,
+      "nama": "Banyu Mili Resto & Cafe",
+      "tipe": "kafe_resto",
+      "lokasi": "Jl. Alternatif Lawu, Dawuhan, Blumbang",
+      "harga": "Rp15K-50K",
+      "keunggulan": "View persawahan, speciality coffee, frappe, dimsum, rice bowl, dessert",
+      "target_pengunjung": "Anak muda, coffee enthusiast",
+      "status": "aktif"
+    },
+    {
+      "id": 5,
+      "nama": "D'Lawu Bistro",
+      "tipe": "resto",
+      "lokasi": "Jl. Raya Tawangmangu-Sarangan KM9, Gondosuli Kidul",
+      "harga": "Rp4K-85K",
+      "keunggulan": "Wagyu steak, beef black pepper, sop buntut. Masih baru tapi selalu ramai",
+      "menu_andalan": "Tenderloin Wagyu Steak, Beef Black Pepper, Nasi Goreng Seafood, Zuppa Soup, Sop Buntut",
+      "target_pengunjung": "Keluarga, pecinta steak",
+      "status": "aktif"
+    },
+    {
+      "id": 6,
+      "nama": "The Mongkrang Resto & Villa",
+      "tipe": "resto_villa",
+      "lokasi": "Blumbang, Tawangmangu",
+      "keunggulan": "Makan sekaligus menginap, fasilitas lengkap",
+      "target_pengunjung": "Keluarga besar, rombongan",
+      "status": "aktif"
+    },
+    {
+      "id": 7,
+      "nama": "Medjora Cafe",
+      "tipe": "kafe",
+      "lokasi": "Blumbang, Tawangmangu",
+      "jam_operasional": "09.00-22.00 WIB",
+      "keunggulan": "Green cafe, interior kayu rustic, tanaman hijau, lampu tumblr, gemercik air, view lembah. Ramah anak.",
+      "menu_andalan": "Kopi nusantara, makanan lokal",
+      "target_pengunjung": "Pasangan, keluarga",
+      "status": "aktif_viral"
+    },
+    {
+      "id": 8,
+      "nama": "Sakawuni Coffee & Eatery",
+      "tipe": "kafe",
+      "lokasi": "Jl. Utama Tawangmangu",
+      "jam_operasional": "Pagi sampai 21.00/22.00 WIB",
+      "keunggulan": "Semi-terbuka, halaman rumput luas, api unggun, lampu pemanas. Konsep glamping. Parkir luas.",
+      "target_pengunjung": "Komunitas, keluarga besar",
+      "status": "aktif"
+    },
+    {
+      "id": 9,
+      "nama": "Latar Lawu Eatery and Coffee",
+      "tipe": "kafe_resto",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Tema kastil mini, view Gunung Lawu + kebun hijau. Viral di TikTok. Terlihat mewah tapi harga bersaing.",
+      "target_pengunjung": "Anak muda, content creator",
+      "status": "aktif_viral"
+    },
+    {
+      "id": 10,
+      "nama": "MH Cafe",
+      "tipe": "kafe",
+      "lokasi": "Dawuhan, RT.004/RW.004, Blumbang",
+      "jam_operasional": "09.00-19.00 WIB",
+      "keunggulan": "Kafe tertinggi, city light malam, shuttle gratis dari parkir bawah. Viral hidden gem.",
+      "target_pengunjung": "Anak muda, content creator",
+      "status": "aktif_viral"
+    },
+    {
+      "id": 11,
+      "nama": "Blumbang Resto",
+      "tipe": "resto",
+      "lokasi": "Blumbang, Tawangmangu",
+      "keunggulan": "Menyatu dengan alam, panorama persawahan. Populer untuk keluarga.",
+      "target_pengunjung": "Keluarga",
+      "status": "aktif"
+    },
+    {
+      "id": 12,
+      "nama": "Inshokuiki Resto",
+      "tipe": "resto",
+      "lokasi": "Jl. Alternatif Lawu, Dawuhan, Blumbang",
+      "harga": "Rp12K-42K",
+      "keunggulan": "View pegunungan + sawah luas. Menu Jepang, Western, Nusantara. Instagramable.",
+      "menu_andalan": "Ramen, Nasi Lada Hitam, Burritos, Sup Iga, Beef Claypot",
+      "target_pengunjung": "Keluarga, pecinta kuliner internasional",
+      "status": "aktif"
+    },
+    {
+      "id": 13,
+      "nama": "Pine Resto Tawangmangu",
+      "tipe": "resto",
+      "lokasi": "Nava Hotel, Jl. Grojogan Sewu Pintu III",
+      "harga": "Rp20K-355K",
+      "keunggulan": "Menu baru tiap bulan, live acoustic. Nusantara, Chinese, Western.",
+      "menu_andalan": "American Chicken Grill, Ayam Taliwang, Tom Yum, Aneka Pasta",
+      "target_pengunjung": "Hotel guests, wisatawan",
+      "status": "aktif"
+    },
+    {
+      "id": 14,
+      "nama": "Teksas Resto and Coffee",
+      "tipe": "resto_kafe",
+      "lokasi": "Alternatif Lawu, Dawuhan, Blumbang",
+      "keunggulan": "Ikon balon besar, mudah dikenali, di ruas jalan utama. Menu Indonesia.",
+      "menu_andalan": "Rawon, Pecel Lele, Ayam Bakar, Sop Iga, Mie Rebus",
+      "target_pengunjung": "Wisatawan lewat",
+      "status": "aktif"
+    },
+    {
+      "id": 15,
+      "nama": "Okane Cafe & Grill",
+      "tipe": "kafe_grill",
+      "lokasi": "Jl. Tawangmangu, sebelum Cemoro Sewu dari arah Madiun",
+      "harga": "Paket Grill/Suki mulai Rp119K",
+      "jam_operasional": "10.00-21.00 WIB",
+      "keunggulan": "Grill dan Suki pertama di Tawangmangu. Gratis nasi putih. Outdoor + indoor.",
+      "target_pengunjung": "Wisatawan Jatim, anak muda",
+      "status": "aktif"
+    },
+    {
+      "id": 16,
+      "nama": "Warung Soto Sewu",
+      "tipe": "warung",
+      "lokasi": "Jl. Tawangmangu-Matesih KM2 No.2, Nglebak",
+      "harga": "Rp1K-25K",
+      "jam_operasional": "07.00-15.00 WIB",
+      "keunggulan": "Soto tradisional Jawa, mendoan. Family-friendly. Rating 4.5 (193 reviews).",
+      "target_pengunjung": "Warga lokal, pemudik",
+      "status": "aktif"
+    },
+    {
+      "id": 17,
+      "nama": "Warung Makan Sedap Malam (Mbak Itin)",
+      "tipe": "warung",
+      "lokasi": "Terminal Tawangmangu Ruko No.69",
+      "keunggulan": "Bisa delivery, ambil di tempat. Dekat terminal.",
+      "target_pengunjung": "Pemudik, warga lokal",
+      "status": "aktif"
+    },
+    {
+      "id": 18,
+      "nama": "Warung Ijo Tawangmangu",
+      "tipe": "warung",
+      "lokasi": "Jl. Lawu Tawangmangu, Nano Rt2 Rw4",
+      "harga": "Rp4K-39K",
+      "keunggulan": "Ada di GoFood. Menu aneka nasi murah meriah.",
+      "target_pengunjung": "Warga lokal, delivery",
+      "status": "aktif_gofood"
+    },
+    {
+      "id": 19,
+      "nama": "Warung Serba Gongso Sugeh Roso",
+      "tipe": "warung",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Ada di GoFood. Menu aneka nasi + minuman.",
+      "target_pengunjung": "Warga lokal, delivery",
+      "status": "aktif_gofood"
+    },
+    {
+      "id": 20,
+      "nama": "Ayam Geprek Hot",
+      "tipe": "warung",
+      "lokasi": "Tawangmangu, Karanganyar",
+      "keunggulan": "Ada di GoFood. Ayam geprek + aneka nasi.",
+      "target_pengunjung": "Warga lokal, delivery",
+      "status": "aktif_gofood"
+    },
+    {
+      "id": 21,
+      "nama": "Sop Buntut Bu Ugi",
+      "tipe": "warung_resto",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Spesialis sop buntut. Sudah lama berdiri.",
+      "target_pengunjung": "Wisatawan, warga lokal",
+      "status": "aktif"
+    },
+    {
+      "id": 22,
+      "nama": "Warung Njamoer",
+      "tipe": "warung",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Pesen lewat GoFood/GrabFood",
+      "target_pengunjung": "Warga lokal",
+      "status": "aktif"
+    },
+    {
+      "id": 23,
+      "nama": "Kampoeng Kopi",
+      "tipe": "kafe",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Kedai kopi lokal",
+      "target_pengunjung": "Pecinta kopi",
+      "status": "aktif"
+    },
+    {
+      "id": 24,
+      "nama": "Gethukku",
+      "tipe": "jajanan",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Ada di GoFood. Cepat saji, jajanan, pizza, pasta.",
+      "target_pengunjung": "Anak muda",
+      "status": "aktif_gofood"
+    },
+    {
+      "id": 25,
+      "nama": "Pisang Molen Tawangmangu",
+      "tipe": "jajanan",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Ada di GoFood. Pisang molen + minuman.",
+      "target_pengunjung": "Warga lokal, pemudik",
+      "status": "aktif_gofood"
+    },
+    {
+      "id": 26,
+      "nama": "Kaspe Gendruwo Tawangmangu",
+      "tipe": "jajanan",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Ada di GoFood. Jajanan ringan.",
+      "target_pengunjung": "Anak muda",
+      "status": "aktif_gofood"
+    },
+    {
+      "id": 27,
+      "nama": "Higher Ground Cafe",
+      "tipe": "kafe",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "View pegunungan",
+      "target_pengunjung": "Anak muda",
+      "status": "aktif"
+    },
+    {
+      "id": 28,
+      "nama": "Watu Ondo Resto & Coffee",
+      "tipe": "resto_kafe",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Resto + kafe",
+      "target_pengunjung": "Wisatawan",
+      "status": "aktif"
+    },
+    {
+      "id": 29,
+      "nama": "Ika Iki Resto",
+      "tipe": "resto",
+      "lokasi": "Tawangmangu",
+      "target_pengunjung": "Wisatawan",
+      "status": "aktif"
+    },
+    {
+      "id": 30,
+      "nama": "Sate Kelinci Pak Temon",
+      "tipe": "warung",
+      "lokasi": "Tawangmangu",
+      "keunggulan": "Spesialis sate kelinci. Sudah lama.",
+      "target_pengunjung": "Wisatawan",
+      "status": "aktif"
+    },
+    {
+      "id": 31,
+      "nama": "RM Bangun Trisno",
+      "tipe": "rumah_makan",
+      "lokasi": "Tawangmangu",
+      "target_pengunjung": "Warga lokal",
+      "status": "aktif"
+    },
+    {
+      "id": 28,
+      "nama": "Warung Makan Lawu Village",
+      "tipe": "warung",
+      "lokasi": "Tawangmangu",
+      "target_pengunjung": "Wisatawan",
+      "status": "aktif"
+    }
+  ],
+  "ringkasan": {
+    "total_aktif": 31,
+    "kategori": {
+      "kafe_resto_viral": 10,
+      "resto_tradisional": 5,
+      "warung_kecil": 10,
+      "jajanan_gofood": 6
+    },
+    "zona_konsentrasi": [
+      "Jl. Tembus Alternatif Blumbang (pusat kafe viral)",
+      "Jl. Raya Tawangmangu-Sarangan (resto + warung)",
+      "Cemoro Kandang (warung tradisional)",
+      "Cemoro Sewu (warung pendakian)",
+      "Terminal Tawangmangu (warung pemudik)"
+    ],
+    "harga_rata_rata": "Rp5K-50K per item"
+  }
+}

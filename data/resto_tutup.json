@@ -1,0 +1,110 @@
+{
+  "judul": "Daftar Resto/Warung Tutup di Tawangmangu",
+  "terakhir_diperbarui": "2026-07-19",
+  "catatan": "Data dikumpulkan dari web search, berita lokal, property listings. Warung kecil tidak ada di Google Maps.",
+  "data": [
+    {
+      "id": 1,
+      "nama": "Warung Makan Gito Purnomo",
+      "tipe": "warung",
+      "lokasi": "Kalisoro RT 01/RW 04, Kel. Kalisoro, Tawangmangu",
+      "tahun_tutup": 2025,
+      "status": "tutup_total",
+      "alasan": "Kebakaran - bangunan semi permanen 30x8m hangus terbakar total",
+      "detail": "Pemilik Gito Purnomo mendapat kabar dari anaknya. Api dari pukul 04.20 WIB hingga 06.10 WIB. Peralatan dapur (kulkas, kompor) terbakar semua.",
+      "sumber": ["inilahjateng.com (18 Mei 2025)", "Damkar Karanganyar"],
+      "pelajaran": "Risiko kebakaran pada bangunan semi permanen kayu + atap seng. Tidak ada asuransi yang disebutkan."
+    },
+    {
+      "id": 2,
+      "nama": "Puluhan Lapak PKL Grojogan Sewu",
+      "tipe": "warung_pkl",
+      "lokasi": "Area parkir Pintu I Grojogan Sewu, Tawangmangu",
+      "tahun_tutup": "2023-sekarang (gradual)",
+      "status": "tutup_permanen",
+      "alasan": "Kunjungan wisatawan turun drastis sejak COVID-19 + munculnya Lawu Park, Wonder Park, Bukit Sekipan",
+      "detail": "Dari 141 pedagang sebelum COVID → 70 pedagang (2026) → hanya ~40 yang masih aktif berjualan. Banyak yang tutup permanen karena omzet tidak sampai Rp500K/bulan. Deretan lapak hanya tinggal 2 yang masih jualan di beberapa blok. Kera liar (monyet) juga mengganggu - merusak dagangan, pedagang takut buka sendirian karena sepi.",
+      "sumber": ["Espos.id (1 Agu 2023)", "TribunSolo (1 Mei 2026)", "KRJogja (4 Mei 2026)", "InfoNasional (4 Jul 2026)"],
+      "pelajaran": "Bergantung pada satu objek wisata = risiko tinggi. Wisata alam kalah bersaing dengan wisata buatan. Monyet = faktor eksternal yang bikin pedagang kapok.",
+      "statistik": {
+        "pedagang_sebelum_covid": 141,
+        "pedagang_2026": "sekitar 40-an aktif",
+        "omzet_sekarang": "Rp500K/bulan atau kurang",
+        "omzet_dulu": "Rp2 juta+/bulan"
+      }
+    },
+    {
+      "id": 3,
+      "nama": "Sakera Resto & Kafe (Gerai Atas)",
+      "tipe": "resto_kafe",
+      "lokasi": "Jl. Tembus Tawangmangu-Sarangan, atas longsor",
+      "tahun_tutup": 2023,
+      "status": "tutup_sementara",
+      "alasan": "Longsor menutup jalan tembus Tawangmangu-Sarangan, pengunjung tidak bisa lewat",
+      "detail": "Gerai bawah masih buka karena jalannya bisa dilewati. Gerai atas tutup total karena jalan utama tertutup material longsor. Batu besar menghalangi jalan. Rawan longsor susulan.",
+      "sumber": ["Espos.id (15 Feb 2023)", "Via Mayasari (pemilik)"],
+      "pelajaran": "Dependensi pada satu akses jalan. Risiko bencana alam di jalur pegunungan."
+    },
+    {
+      "id": 4,
+      "nama": "Waroeng Hanif (Gerai Atas)",
+      "tipe": "warung",
+      "lokasi": "Jl. Raya Gondosuli No.16, Tawangmangu (sekitar Cemoro Kandang)",
+      "tahun_tutup": 2024,
+      "status": "tutup_permanen",
+      "alasan": "Longsor + pengunjung sepi",
+      "detail": "Salah satu warung populer di Cemoro Kandang yang tutup permanen. Sebelumnya jualan sate ayam, sate kelinci, nasi goreng. Harga Rp8K-25K.",
+      "sumber": ["Web search 2024"],
+      "pelajaran": "Warung murah dengan lokasi strategis pun bisa tutup jika kunjungan turun."
+    },
+    {
+      "id": 5,
+      "nama": "Warung-warung Cemoro Kandang (beberapa)",
+      "tipe": "warung",
+      "lokasi": "Jl. Raya Gondosuli No.16, sekitar Cemoro Kandang",
+      "tahun_tutup": "2024-2025",
+      "status": "turun_omzet",
+      "alasan": "Omzet turun 25% saat Lebaran 2025. Wisatawan bukan lagi tujuan utama, tapi pemudik yang mampir istirahat.",
+      "detail": "Warung Jumali (Cemoro Kandang): omzet turun 25%. 'Kalau dulu sampai macet, sekarang lengang sekali.' Yang datang kebanyakan pemudik lelah, bukan wisatawan. Daftar warung: Joko Mbah Mo, Waroeng Hanif (atas), Boga Boge, Mas Aris, Kharisma, Lawu Damai, Sopo Ngiro Bu Mar.",
+      "sumber": ["TribunSolo (6 Apr 2025)", "HargaMenu.net"],
+      "pelanggan": "Mayoritas pemudik, bukan wisatawan dedicated"
+    },
+    {
+      "id": 6,
+      "nama": "Resto Rahma",
+      "tipe": "resto",
+      "lokasi": "Tawangmangu (lokasi pasti tidak diketahui)",
+      "tahun_tutup": "~2024",
+      "status": "hilang_dari_daftar",
+      "alasan": "Tidak ada berita penutupan, tapi hilang dari semua daftar resto aktif 2025-2026",
+      "detail": "Tidak muncul di Google Maps, berita terbaru, atau daftar rekomendasi manapun. Kemungkinan tutup tanpa publikasi.",
+      "sumber": ["Analisis data - perbandingan daftar 2022 vs 2025"],
+      "pelajaran": "Banyak resto kecil tutup tanpa jejak digital."
+    },
+    {
+      "id": 7,
+      "nama": "Warung Mbok Yem (Gunung Lawu)",
+      "tipe": "warung",
+      "lokasi": "Puncak Gunung Lawu, Hargo Lawu",
+      "tahun_tutup": 2025,
+      "status": "tutup_sementara",
+      "alasan": "Pemilik meninggal dunia, masa duka 100 hari",
+      "detail": "Viral di media sosial 27 Mei 2025. Warung legend di puncak Gunung Lawu yang sudah berdiri 19 tahun. Penjaga pensiun. Temon (monyet peliharaan) diadopsi relawan Blora. Keluarga berencana meneruskan.",
+      "sumber": ["TribunSolo (1 Jun 2025)"],
+      "pelajaran": "Warung legendaris bergantung pada satu orang. Tidak ada suksesi bisnis."
+    }
+  ],
+  "ringkasan_tren": {
+    "penyebab_utama": [
+      "Longsor/bencana alam (3 kasus)",
+      "Kunjungan wisatawan turun drastis pasca-COVID (5+ kasus)",
+      "Kompetisi wisata buatan (Lawu Park, Wonder Park, Bukit Sekipan)",
+      "Kebijakan harga tiket mahal (PNBP Rp15K)",
+      "Oversupply kuliner (100+ resto di daerah kecil)",
+      "Monyet/gangguan hewan",
+      "Kebakaran"
+    ],
+    "estimasi_jumlah_tutup": "50-100+ warung kecil (tidak terdata)",
+    "sumber_estimasi": "Dari 141 pedagang Grojogan Sewu → 40 aktif = 101 tutup. Belum termasuk warung di jalur utama dan pedesaan."
+  }
+}

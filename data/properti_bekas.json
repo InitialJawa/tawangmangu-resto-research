@@ -1,0 +1,165 @@
+{
+  "judul": "Properti Bekas Resto/Ruko di Tawangmangu yang Dijual/Disewakan",
+  "terakhir_diperbarui": "2026-07-19",
+  "catatan": "Properti ini bisa jadi indikator bahwa bisnis kuliner sebelumnya gagal. Harga bisa jadi referensi untuk masuk/buka usaha baru.",
+  "data": [
+    {
+      "id": 1,
+      "nama": "Rumah Makan 3 Lantai",
+      "status": "DIJUAL CEPAT",
+      "tipe": "SHM",
+      "lokasi": "Jl. Solo Sarangan, Tawangmangu",
+      "spesifikasi": {
+        "luas_tanah": "162 m2",
+        "luas_bangunan": "250 m2",
+        "lantai": 3,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "carport": "7 mobil",
+        "listrik": "1300 watt",
+        "tahun_bangun": 2022,
+        "hadap": "Selatan+Barat",
+        "akses": "Aspal Jalan Raya"
+      },
+      "harga": "Rp 2.5 Miliar (nego)",
+      "keterangan": "Bangunan sangat kokoh, rangka 3 lantai. Lantai atas rooftop luas dengan view indah. Dekat Cemoro Sewu, Cemoro Kandang, Sekipan. Potensial untuk resto modern/hotel.",
+      "sumber": "Pinhome",
+      "indikasi": "Rumah makan baru (2022) sudah dijual cepat = kemungkinan bisnis gagal"
+    },
+    {
+      "id": 2,
+      "nama": "Rumah Cafe Siap Pakai Gondosuli",
+      "status": "DIJUAL",
+      "tipe": "SHM (2 SHM)",
+      "lokasi": "Jl. Propinsi (Gondosuli), Tawangmangu",
+      "spesifikasi": {
+        "luas_tanah": "825 m2",
+        "luas_bangunan": "1.100 m2",
+        "lantai": 2,
+        "kamar_tidur": 1,
+        "kamar_mandi": 2,
+        "akses": "Tepi jalan propinsi"
+      },
+      "harga": "Rp 4.5 Miliar (nego)",
+      "keterangan": "Bangunan besar siap pakai untuk cafe/resto. Lokasi tepi jalan propinsi.",
+      "sumber": "Pinhome",
+      "indikasi": "Cafe besar 1100m2 dijual = kemungkinan tutup. Harga Rp4.5M cukup tinggi untuk area ini."
+    },
+    {
+      "id": 3,
+      "nama": "Villa + Ruang Usaha Blumbang",
+      "status": "DIJUAL CEPAT (BU)",
+      "tipe": "SHM",
+      "lokasi": "Blumbang, Tawangmangu",
+      "spesifikasi": {
+        "luas_tanah": "218 m2",
+        "luas_bangunan": "200 m2",
+        "lantai": 3,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "carport": "8 mobil",
+        "listrik": "1300 watt",
+        "tahun_bangun": "2025 akhir",
+        "akses": "Jalan raya 7 meter"
+      },
+      "harga": "Rp 1.9 Miliar (nego)",
+      "keterangan": "Fasilitas: water heater, WiFi, Smart TV, AC, springbed King Koil. Tarif kamar Rp450K/malam. Baru dibangun 2025 tapi sudah dijual.",
+      "sumber": "Pinhome",
+      "indikasi": "Baru bangun 2025 langsung dijual = kemungkinan tidak sesuai ekspektasi pendapatan"
+    },
+    {
+      "id": 4,
+      "nama": "Restaurant & Villa Karangpandan",
+      "status": "DISEWAKAN",
+      "tipe": "Komersial",
+      "lokasi": "Karangpandan (jalur Solo-Tawangmangu)",
+      "spesifikasi": {
+        "luas_tanah": "14.376 m2",
+        "luas_bangunan_resto": "288-300 m2",
+        "kamar_tidur_villa": "16 kamar + 1 paviliun",
+        "fasilitas": "Kolam renang, taman bermain anak"
+      },
+      "harga_sewa": "Rp 200 Juta/tahun",
+      "keterangan": "Dekat Al Azhar Boarding School, Rumah Atsiri, Pasar Tawangmangu. Bisa untuk resto + toko oleh-oleh + hotel + penginapan.",
+      "sumber": "Lamudi",
+      "indikasi": "Properti besar 1.4 hektar disewakan = pemilik tidak bisa operasikan sendiri"
+    },
+    {
+      "id": 5,
+      "nama": "Restaurant & Villa Karangpandan ( listing kedua)",
+      "status": "DISEWAKAN",
+      "tipe": "Komersial",
+      "lokasi": "Karangpandan (jalur utama Solo-Tawangmangu)",
+      "spesifikasi": {
+        "luas_tanah": "3.598 m2",
+        "lantai": "3 (terasering)",
+        "kamar_tidur": 3,
+        "kamar_mandi": 6,
+        "listrik": "4400W (2 meteran)",
+        "air": "Sumur pegunungan",
+        "konsep": "Joglo/pendopo tradisional Jawa, full furnished"
+      },
+      "harga_sewa": "Rp 110 Juta/tahun",
+      "keterangan": "Sungai berbatu di dalam properti. Full furnished. Cocok untuk restoran alam, glamping, outbound. Parkir raksasa.",
+      "sumber": "Lamudi / Ray White",
+      "indikasi": "Properti mewah full furnished disewakan = kemungkinan restoran sebelumnya tutup"
+    },
+    {
+      "id": 6,
+      "nama": "Ruang Usaha Deket Air Terjun Jumog",
+      "status": "DISEWAKAN",
+      "tipe": "Siap Pakai",
+      "lokasi": "Berjo, Ngargoyoso, Karanganyar",
+      "spesifikasi": {
+        "luas_tanah": "900 m2",
+        "luas_bangunan": "250 m2",
+        "lantai": 1,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "carport": "14 mobil",
+        "listrik": "900 watt",
+        "tahun_bangun": 2023
+      },
+      "harga_sewa": "Rp 175 Juta/tahun (nego, min 2 tahun)",
+      "keterangan": "3 menit ke Air Terjun Jumog, 10 menit ke Grojogan Sewu. Kasir, mushola, dapur, pendopo.",
+      "sumber": "Pinhome",
+      "indikasi": "Bangunan baru (2023) disewakan = kemungkinan tidak ada pengunjung"
+    },
+    {
+      "id": 7,
+      "nama": "Tanah 822m2 untuk Cafe",
+      "status": "DIJUAL",
+      "tipe": "SHM",
+      "lokasi": "Tepi Jl. Raya Tawangmangu",
+      "spesifikasi": {
+        "luas_tanah": "822 m2"
+      },
+      "harga": "Rp 1.644 Miliar (Rp2.000.000/m2)",
+      "keterangan": "Cocok bangun usaha resto, cafe, villa. Tepi jalan raya.",
+      "sumber": "Properti1",
+      "indikasi": "Tanah kosong di jalur utama = lahan bekas usaha yang sudah tidak aktif"
+    },
+    {
+      "id": 8,
+      "nama": "Tanah 825m2 Strategis",
+      "status": "DIJUAL",
+      "tipe": "SHM",
+      "lokasi": "Jl. Tawangmangu",
+      "spesifikasi": {
+        "luas_tanah": "825 m2"
+      },
+      "harga": "Rp 2.5 Miliar",
+      "keterangan": "Cocok untuk villa/usaha di kawasan wisata.",
+      "sumber": "Properti1",
+      "indikasi": "Tanah luas dijual = bisa bekas usaha kuliner/villa yang tutup"
+    }
+  ],
+  "ringkasan": {
+    "total_listing": 8,
+    "dijual": 5,
+    "disewakan": 3,
+    "harga_jual_range": "Rp1.6M - Rp4.5M",
+    "harga_sewa_range": "Rp110Jt - Rp200Jt/tahun",
+    "kesimpulan": "Banyak properti bekas resto/villa dijual/disewa di Tawangmangu. Ini indikator kuat bahwa bisnis kuliner di area ini sulit bertahan."
+  }
+}
