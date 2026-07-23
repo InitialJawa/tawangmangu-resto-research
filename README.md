@@ -1,162 +1,157 @@
-# Riset Revitalisasi Ekonomi — Tawangmangu, Karanganyar
+<div align="center">
 
-Riset komprehensif tentang kondisi ekonomi Tawangmangu: dari analisis kegagalan resto, kompetitor aktif, strategi menghidupkan distrik, sejarah pergeseran wisatawan ke pemudik, hingga **laporan akhir dengan verdict: jangan buka bisnis di Tawangmangu**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SafeHaven&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Financial%20%26%20Stock%20Analytics%20Platform%20(IDX%20%2F%20IHSG)&descAlignY=58&descSize=18" width="100%"/>
 
-## Ringkasan Proyek
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Real-time+Stock+%26+Market+Intelligence;6-Dimensi+Factor+Scoring+Engine;AI-Powered+Portfolio+Advisor+(Gemini);Dibangun+untuk+Investor+Retail+Indonesia" alt="Typing SVG" />
+</a>
 
-**Tujuan:** Memetakan seluruh resto/warung yang tutup di Tawangmangu untuk menemukan celah pasar bagi bisnis kuliner baru.
+Platform analisis saham dan intelijen pasar keuangan modern yang menggabungkan data real-time, analisis teknikal & fundamental, visualisasi musiman, perbandingan sektor, serta analisis berbasis kecerdasan buatan (Gemini AI).
 
-**Lokasi:** Tawangmangu, Kabupaten Karanganyar, Jawa Tengah (lereng Gunung Lawu)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
+![License](https://img.shields.io/badge/status-in%20development-yellow)
 
-**Masalah Utama:**
-- 100+ resto/kafe di daerah kecil, banyak yang tutup
-- Kunjungan wisatawan Grojogan Sewu turun drastis (300K → <100/hari)
-- 72% pedagang Grojogan Sewu tutup (141 → 40 aktif)
-- Wisata alam kalah bersaing dengan wisata buatan
+</div>
 
-## Struktur Proyek
+---
 
+## 📋 Daftar Isi
+
+- [Fitur Utama](#-fitur-utama)
+- [Tech Stack](#️-tech-stack)
+- [Panduan Instalasi](#-panduan-instalasi)
+- [Struktur Data](#-struktur-data)
+- [Migrasi ke Firebase](#-migrasi-ke-firebase-opsional)
+- [Roadmap](#-roadmap)
+
+---
+
+## 🚀 Fitur Utama
+
+### 📊 Analisis Ticker & Scoring Komprehensif
+| Fitur | Deskripsi |
+|---|---|
+| **6 Dimensi Faktor** | Breakdown Quality, Growth, Value, Momentum, Volume, dan Dividend |
+| **Perbandingan Sektor** | Kinerja ticker vs. sektor industri dan IHSG |
+| **Gauge Teknikal** | Analisis teknikal real-time & konsensus target harga analis (Yahoo Finance) |
+
+### 📈 Visualisasi & Intelijen Pasar Terpadu
+- **Laporan Keuangan** — laba bersih, pendapatan, dan margin usaha tahunan
+- **Alokasi Dividen TTM** — payout ratio, dividend yield, ex-date, dan tanggal bayar
+- **Analisis Musiman** — historis pergerakan bulanan saham (%)
+- **Kinerja Historis** — 1M, 1B, 3B, 6B, YTD, 1T
+
+### 🤖 AI Stock & Portfolio Advisor
+Ditenagai **Google Gemini AI** untuk memberikan wawasan kuantitatif, analisis risiko, dan rekomendasi portofolio secara kontekstual.
+
+### 💼 Manajemen Portofolio & Watchlist
+Catat posisi saham, estimasi profit/loss, alokasi aset, serta kalkulasi dividen otomatis.
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+- React 19 + Vite 6
+- Tailwind CSS v4
+- Recharts
+- Lightweight Charts
+- Lucide Icons
+
+</td>
+<td valign="top" width="50%">
+
+**Backend**
+- Node.js + Express (`server.ts`)
+- SQLite (`safehaven.db`)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**AI & Data Feed**
+- `@google/genai` (Gemini API)
+- `yahoo-finance2`
+
+</td>
+<td valign="top">
+
+**Status**
+- 🚧 In active development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 Panduan Instalasi
+
+**1. Install dependencies**
+```bash
+npm install
 ```
-tawangmangu-resto-research/
-├── README.md                                 # File ini
-├── data/
-│   ├── resto_tutup.json                      # Data resto tutup (7 kasus)
-│   ├── resto_aktif.json                      # Data kompetitor aktif (37 usaha)
-│   └── properti_bekas.json                   # Properti bekas resto dijual/sewa (8 listing)
-└── docs/
-    ├── 01_PROFIL_KAWASAN.md                  # Demografi, wisata, ekonomi (UPDATE: BPS data, investor asing)
-    ├── 02_DAFTAR_RESTO_TUTUP.md              # Mapping satu-satu resto tutup
-    ├── 03_KOMPETITOR_AKTIF.md                # Mapping satu-satu kompetitor aktif
-    ├── 04_ANALISIS_KEGAGALAN.md              # Pola kegagalan + insight
-    ├── 05_PELUANG_BISNIS.md                  # Rekomendasi 3 konsep kuliner
-    ├── 06_REVITALISASI_DISTRIK.md            # ⭐ Strategi menghidupkan distrik (10 jenis usaha, 4 fase, case study)
-    ├── 07_SEJARAH_PERGESERAN.md             # ⭐ Sejarah Tawangmangu: tokoh kunci, pergeseran wisatawan regional
-    └── 09_LAPORAN_AKHIR.md                  # ⭐⭐ LAPORAN FINAL: verdict, connect the dots, 54 sumber data
+
+**2. Jalankan development server**
+```bash
+npm run dev
+```
+> Aplikasi akan berjalan di `http://localhost:3000`
+
+**3. Build untuk produksi**
+```bash
+npm run build
+npm start
 ```
 
-## Temuan Utama
+---
 
-### Resto Tutup
+## 🗄️ Struktur Data
 
-| Kategori | Jumlah | Contoh |
-|----------|--------|--------|
-| Tutup total/permanen | 100+ | ~101 lapak Grojogan Sewu, Warung Gito, Waroeng Hanif |
-| Tutup sementara | 2 | Sakera Resto, Warung Mbok Yem |
-| Turun omzet/terancam | 10+ | Warung Cemoro Kandang |
+Data disimpan secara lokal menggunakan SQLite dengan dua entitas utama:
 
-### Kompetitor Aktif
+| Tabel | Keterangan |
+|---|---|
+| `watchlist` | Daftar saham yang dipantau pengguna |
+| `portfolio` | Posisi saham aktif, alokasi, dan histori transaksi |
 
-| Kategori | Jumlah | Harga |
-|----------|--------|-------|
-| Kafe viral (view) | 10 | Rp25K-50K |
-| Resto | 7 | Rp15K-85K |
-| Warung tradisional | 13 | Rp5K-25K |
-| Jajanan GoFood | 7 | Rp4K-39K |
-| **Total** | **37** | |
+---
 
-### Properti Bekas Resto
+## 🔄 Migrasi ke Firebase (Opsional)
 
-| Status | Jumlah | Harga |
-|--------|--------|-------|
-| Dijual | 5 | Rp1.6M - Rp4.5M |
-| Disewakan | 3 | Rp110-200 Jt/tahun |
+Jika ingin memindahkan storage dari SQLite lokal ke Google Firebase (Firestore & Auth):
 
-### Sinyal Ekonomi Baru (Juli 2026)
+1. **Export Data SQLite** — ekspor tabel `watchlist` dan `portfolio` menjadi format JSON
+2. **Setup Firebase Project** — buat proyek di [Firebase Console](https://console.firebase.google.com/), aktifkan **Firestore Database** dan **Firebase Authentication**
+3. **Impor Data ke Firestore** — jalankan script penyerapan data JSON ke koleksi:
+   ```
+   users/{userId}/portfolio
+   users/{userId}/watchlist
+   ```
 
-| Sinyal | Status | Dampak |
-|--------|--------|--------|
-| Terminal revitalisasi | Rencana Dishub Jateng | Zona bisnis baru |
-| Investor Dubai (kereta gantung) | **BATAL mundur total** (Juli 2026) | Tawangmangu belum siap investasi besar |
-| Investor Turkiye (balon udara) | **BATAL mundur** (Juli 2026) | Rencana dialihkan ke cable car mini |
-| Wisata halal pilot project | Aktif di Tawangmangu | Magnet wisatawan Muslim |
-| UMKM Karanglo | Aktif | Olahan pisang, ubi, grubi |
-| Pertanian | 38% lahan (2.665 ha) | Agroturisme potensial |
-| Karanganyar ranking wisata | **#25 se-Jateng** | Bukan destinasi prioritas |
+---
 
-## 5 Pola Kegagalan
+## 🗺️ Roadmap
 
-1. **Kunjungan wisatawan anjlok** — 70%+ kasus
-2. **Longsor/bencana alam** — 30% kasus
-3. **Harga tiket mahal** — PNBP Rp15K, pungli parkir
-4. **Kompetisi wisata buatan** — Lawu Park, Wonder Park
-5. **Monyet ganggu** — downward spiral
+- [ ] Multi-Tier Rotation (Saham / Emas / Cash IDR / USD)
+- [ ] Strategy templates (Buffett, Lynch, Renaissance, Dividend Aristocrats, All Weather)
+- [ ] AI provider fallback chain (GPT-4o-mini → Claude 3.5 Haiku → Gemini 2.0 Flash)
 
-## 10 Usaha yang Cocok di Tawangmangu
+---
 
-| No | Usaha | Modal | Prioritas |
-|----|-------|-------|-----------|
-| 1 | Mini Theme Park / Foto Spot | Rp100-300 Jt | ⭐⭐⭐ |
-| 2 | Agroturisme Petik Buah | Rp50-150 Jt | ⭐⭐⭐ |
-| 3 | Night Market / Street Food | Rp50-100 Jt | ⭐⭐⭐ |
-| 4 | Budget Homestay | Rp50-100 Jt | ⭐⭐⭐ |
-| 5 | Kopi Specialty Tawangmangu | Rp30-60 Jt | ⭐⭐ |
-| 6 | Home Industry Olahan | Rp10-30 Jt | ⭐⭐ |
-| 7 | Rental & Outbound Center | Rp30-80 Jt | ⭐⭐ |
-| 8 | Cloud Kitchen + GoFood | Rp20-40 Jt | ⭐⭐ |
-| 9 | Warung Pemudik | Rp30-50 Jt | ⭐⭐ |
-| 10 | Co-working Space | Rp40-80 Jt | ⭐ |
+<div align="center">
 
-Lihat detail lengkap di `docs/06_REVITALISASI_DISTRIK.md`
+Built for Indonesian retail investors 🇮🇩
 
-## Sumber Data
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" width="100%"/>
 
-| No | Sumber | Jenis Data |
-|----|--------|-----------|
-| 1 | Espos.id | Berita tutup pedagang Grojogan Sewu, terminal revitalisasi |
-| 2 | TribunSolo | Berita Lebaran, warung tutup, kunjungan wisata |
-| 3 | KRJogja | Data kunjungan Grojogan Sewu |
-| 4 | InilahJateng | Kebakaran warung Gito |
-| 5 | InfoNasional | Pedagang tutup kios |
-| 6 | Nusawara | Statistik kunjungan |
-| 7 | KaranganyarNews | Rekomendasi kafe aktif |
-| 8 | IDNTimes | Daftar resto hits |
-| 9 | GoFood/MenuKuliner | Warung aktif di platform delivery |
-| 10 | Pinhome/Lamudi | Properti bekas resto dijual/sewa |
-| 11 | Instagram | postingan warung/cafe |
-| 12 | Google Maps | Review, rating, jumlah kafe |
-| 13 | HargaMenu.net | Daftar warung + harga |
-| 14 | CariKulinerIndonesia | Data warung kecil |
-| 15 | BPS (Scribd) | Kecamatan Tawangmangu Dalam Angka 2025 |
-| 16 | Bisnis.com | Investor Dubai kereta gantung |
-| 17 | Kompas.com | Investor Turkiye balon udara |
-| 18 | Solopos | Wisata halal Tawangmangu, terminal revitalisasi |
-| 19 | BSOET.com | Sejarah Tawangmangu Wonder Park, The Lawu Group |
-| 20 | InilahJateng | Investor Dubai batal, pedagang tutup |
-| 21 | HarianJogja | Wisatawan alam ke wisata buatan |
-| 22 | UMS ETD | Skripsi dampak pariwisata |
-| 23 | Undip ETD | Desa wisata Tawangmangu |
-| 24 | thelawugroup.com | Profil The Lawu Group, unit usaha |
-| 25 | smol.id | Investor Turki batal, cable car dialihkan |
-| 26 | mercusuar.co | Pedagang wisata alam alih profesi |
-| 27 | InfoNasional | Pedagang tutup kios Juli 2026 |
-| 28 | KAI Commuter | Data penumpang KRL Solo-Jogja |
-| 29 | Disporapar Jateng | Kunjungan wisata Lebaran Jateng |
-| 30 | Tribun Jateng | Penurunan kunjungan Lebaran 2026 |
-| 31 | WartaJateng | Wisatawan pindah destinasi |
-| 32 | Bennix Investor Group | Analisis pungli + potensi ekonomi hilang |
-| 33 | Visit Magelang | PAD wisata turun |
-| 34 | HolaIndonesia | Harga tiket Grojogan Sewu terkini |
-| 35 | WartaJawaTengah | Grojogan Sewu sepi weekend 500 pengunjung |
-| 36 | Jatengnews.id | Karanganyar ranking 25 wisata Jateng |
-| 37 | Metropolitan.id | 15 wisata Sragen 2026 |
-| 38 | Kompas (Wonogiri) | Jembatan Kaca WGM Lebaran 2025 |
-| 39 | IDN Times | Aktivitas Waduk Gajah Mungkur |
-| 40 | KaranganyarNews | 8 wisata hits Karanganyar 2026 |
-| 41 | Telkomsel | 20 wisata Karanganyar terbaru |
-| 42 | KabarBUMN | Cepogo Cheese Park Boyolali |
-| 43 | TribunSolo (Sragen) | 5 wisata hits Sragen Lebaran 2026 |
-| 44 | catperku.com | Umbul Ponggok Klaten tiket Rp15K |
-| 45 | wisata.klaten.go.id | 9 daya tarik Umbul Ponggok |
-| 46 | Jadesta Kemenpar | Umbul Ponggok data Kemenpar |
-| 47 | Detikcom | Pedagang Grojogan Sewu tutup kios |
-| 48 | TribunStyle | Cepogo Cheese Park wisata keluarga |
-| 49 | About Semarang | Cepogo Cheese Park lereng Merapi |
-| 50 | HarapanRakyat | Desa Wisata Kembangkuning Boyolali |
-| 51 | TVRI | Liburan di Umbul Ponggok |
-| 52 | UMS ETD | Skripsi dampak pariwisata Tawangmangu |
-| 53 | Undip ETD | Perencanaan desa wisata Tawangmangu |
-| 54 | BPS Karanganyar | Kec. Tawangmangu Dalam Angka 2024 |
-
-## Terakhir Diperbarui
-
-19 Juli 2026
+</div>
